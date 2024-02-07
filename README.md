@@ -1,4 +1,4 @@
-# AWS Role Assumption Helper - README
+# AWS Role Assumption Helper - Node
 
 This documentation provides a comprehensive guide for setting up and utilizing the AWS Role Assumption Helper, a Node.js script designed to facilitate the secure assumption of AWS IAM roles using temporary credentials obtained through the AWS Security Token Service (STS). This tool aims to streamline the process of obtaining and setting temporary AWS credentials for development and deployment purposes.
 
